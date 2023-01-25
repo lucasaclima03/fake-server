@@ -1,0 +1,122 @@
+{
+  "exercises": [
+    {
+      "id": 345,
+      "uuid": "c788d643-150a-4ac7-97ef-84643c6419bf",
+      "name": "supino inclinado",
+      "description": "O movimento inicial acontece em cima com o peso distante do tronco, as escápulas devem estar unidas, o abdômen contraído, apoiando no banco o quadril e as escápulas permitindo uma ligeira curvatura na coluna (não manter retificada a coluna).A empunhadura (pegada) deve ser ligeiramente superior à largura dos ombros, com a observação de que, quanto mais fechada for a empunhadura, maior será o recrutamento de tríceps. Inspirar, descer a barra até a fúrcula esternal, desenvolver e expirar no final do movimento. Desça com o peso, até que a barra aproxime-se do peito. A barra deve descer até o peitoral superior, ficando acima da linha do mamilo.",
+      "category": 10,
+      "creation_date": "2023-01-25T17:39:39.659Z",
+      "muscles": [
+        5
+      ],
+      "muscles_secondary": [
+        4,
+        2
+      ],
+      "equipment": [],
+      "variations": [
+        345,
+        249
+      ]
+    },
+    {
+      "id": 655,
+      "uuid": "sdsa1234-140a-4ss7-95ssf-132412tsda321",
+      "name": "Desenvolvimento Lateral",
+      "description": "Deve-se levantar os pesos lateralmente até a altura dos ombros",
+      "category": 15,
+      "creation_date": "2023-01-25T17:39:39.659Z",
+      "muscles": [
+        8
+      ],
+      "muscles_secondary": [
+        
+      ],
+      "equipment": [],
+      "variations": [
+        
+      ]
+    },
+    
+  
+  ],
+  "user" : [
+    {
+      "username": "lucasaclima03",
+      "email": "lucasaclima03@gmail.com",
+      "email_verified": false,      
+      "date_joined": "2023-01-25 14:38:54.589523+00:00",
+      "gym": null,
+      "is_temporary": false,
+      "show_comments": true,      
+      "workout_reminder_active": 0,
+      "workout_reminder": 14,
+      "workout_duration": 12,
+      "last_workout_notification": null,      
+      "age": null,
+      "birthdate": null,
+      "height": null,
+      "gender": "1",
+      "sleep_hours": 7,
+      "work_hours": 8,
+      "work_intensity": "1",
+      "sport_hours": 3,
+      "sport_intensity": "2",
+      "freetime_hours": 8,
+      "freetime_intensity": "1",
+      "calories": 2500,
+      "weight_unit": "kg",
+    },
+    {
+      "username": "camilabarbosa55",
+      "email": "camilabarbosa@gmail.com",
+      "email_verified": false,      
+      "date_joined": "2022-05-20 14:38:54.589523+00:00",
+      "gym": null,
+      "is_temporary": false,
+      "show_comments": true,      
+      "workout_reminder_active": 0,
+      "workout_reminder": 14,
+      "workout_duration": 12,
+      "last_workout_notification": null,      
+      "age": null,
+      "birthdate": null,
+      "height": null,
+      "gender": "1",
+      "sleep_hours": 7,
+      "work_hours": 8,
+      "work_intensity": "1",
+      "sport_hours": 3,
+      "sport_intensity": "2",
+      "freetime_hours": 8,
+      "freetime_intensity": "1",
+      "calories": 2500,
+      "weight_unit": "kg",
+    },
+  ],
+  "muscle": [
+    {
+      "id": 2,
+      "name": "Deltoide Posterior",      
+      "is_front": true,
+      "image_url_main": "/static/images/muscles/main/muscle-2.svg",
+      "image_url_secondary": "/static/images/muscles/secondary/muscle-2.svg"      
+    },
+   {
+      "id": 1,
+      "name": "Biceps",      
+      "is_front": true,
+      "image_url_main": "/static/images/muscles/main/muscle-1.svg",
+      "image_url_secondary": "/static/images/muscles/secondary/muscle-1.svg"
+    },
+  {
+      "id": 11,
+      "name": "Triceps",      
+      "is_front": true,
+      "image_url_main": "/static/images/muscles/main/muscle-11.svg",
+      "image_url_secondary": "/static/images/muscles/secondary/muscle-11.svg"
+  },
+    
+  ]
+}
